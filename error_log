@@ -1,0 +1,270 @@
+[13-May-2013 10:00:25] PHP Fatal error:  Call to a member function setStoreId() on a non-object in /home/txitcons/public_html/app/code/community/Magestore/Bannerslider/Block/Adminhtml/Bannerslider/Edit/Tab/Form.php on line 32
+[13-May-2013 10:01:28] PHP Fatal error:  Call to a member function setStoreId() on a non-object in /home/txitcons/public_html/app/code/community/Magestore/Bannerslider/Block/Adminhtml/Bannerslider/Edit/Tab/Form.php on line 32
+[16-May-2013 20:55:39] PHP Fatal error:  Call to a member function setStoreId() on a non-object in /home/txitcons/public_html/app/code/community/Magestore/Bannerslider/Block/Adminhtml/Bannerslider/Edit/Tab/Form.php on line 32
+[20-May-2013 20:42:03] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:06:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:18:57] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:26:14] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:33:55] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:34:29] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:49:38] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:50:24] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[20-May-2013 21:55:58] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:56:05] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:56:11] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:56:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:56:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 21:56:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:02:05] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:07:41] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:10:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:16:38] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:16:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:19:03] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:19:14] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:44:03] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:44:19] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[20-May-2013 22:44:34] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:53:14] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 22:55:04] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:12:55] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:12:59] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:13:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:13:10] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:13:15] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:18:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:19:28] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:19:42] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:19:59] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:27:41] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:34:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:39:36] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:39:38] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:55:27] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:55:33] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:57:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:58:31] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[20-May-2013 23:59:57] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:00:44] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:09:27] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:09:28] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:09:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:10:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:15:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:16:35] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:19:36] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:35:10] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:35:40] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:41:41] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:41:45] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:52:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 00:56:25] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:04:14] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:21:52] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:28:18] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:40:26] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:40:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:41:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:46:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:46:18] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:46:22] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 01:58:13] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:08:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:26:17] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:34:33] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:35:34] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:36:51] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 02:37:19] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:24:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:39:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:39:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:39:50] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:39:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:39:57] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:40:00] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:40:04] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:58:51] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:58:58] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:02] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:07] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:13] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:25] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:31] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 03:59:39] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 04:40:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 04:56:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 05:01:05] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 05:16:19] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 05:26:23] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 05:56:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:01:39] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:27:19] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:33:41] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:33:45] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 06:33:45] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 06:33:45] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 06:39:50] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:50:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 06:59:01] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:08:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:09:26] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:12:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:14:23] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:34:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 07:52:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 08:14:58] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 09:15:13] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:00] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:03] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:09] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:16] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:24] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:27] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:35] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:05:49] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:03] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:08] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:20] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:26] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:29] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:32] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:37] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:42] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:49] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:06:58] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:07:07] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:07:10] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:15:19] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:32:33] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:34:25] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:34:57] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:38:33] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:38:56] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:39:38] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:47:38] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:47:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:50:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:51:39] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:52:52] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:53:00] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:55:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 10:59:01] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:02:49] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:05:07] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:05:17] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:08:37] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:09:11] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:09:30] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:09:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:11:32] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:13:15] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:14:40] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:15:30] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:16:12] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:17:50] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:18:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:19:04] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:19:29] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:20:46] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:22:41] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:23:33] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:24:07] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:24:56] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:26:36] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:28:11] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:28:22] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:28:30] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:30:12] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:30:56] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:32:10] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:32:22] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:07] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:10] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:21] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:26] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:55] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:33:56] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:34:18] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:34:24] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:34:28] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:35:09] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:35:16] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:35:17] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:35:31] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:35:49] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:37:11] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:37:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:39:32] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:40:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:41:04] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:41:43] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:41:53] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:42:08] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:42:39] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:43:44] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:43:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:44:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:45:29] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:45:48] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:46:18] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:46:26] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:46:56] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:47:06] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:47:35] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:47:47] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:47:54] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:48:29] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:48:30] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:48:51] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:49:21] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:49:52] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:50:09] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:50:15] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:52:50] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:53:18] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 11:53:49] PHP Fatal error:  Call to undefined method Mage::getSinglton() in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/page/html/footer.phtml on line 38
+[21-May-2013 17:35:41] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 17:37:04] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 17:37:25] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 17:37:48] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[21-May-2013 17:38:09] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[22-May-2013 03:45:52] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[22-May-2013 12:45:09] PHP Parse error:  syntax error, unexpected ';' in /home/txitcons/public_html/app/code/core/Mage/Contacts/controllers/IndexController.php on line 109
+[22-May-2013 12:45:17] PHP Parse error:  syntax error, unexpected ';' in /home/txitcons/public_html/app/code/core/Mage/Contacts/controllers/IndexController.php on line 109
+[22-May-2013 13:44:18] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[22-May-2013 13:45:19] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[23-May-2013 03:16:17] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[23-May-2013 11:36:20] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[23-May-2013 14:56:20] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[23-May-2013 23:16:46] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[24-May-2013 21:42:44] PHP Fatal error:  Class 'Varien_Data_Form_Element_Options' not found in /home/txitcons/public_html/lib/Varien/Data/Form/Abstract.php on line 146
+[24-May-2013 22:29:08] PHP Parse error:  syntax error, unexpected ';' in /home/txitcons/public_html/app/code/core/Mage/Contacts/controllers/IndexController.php on line 109
+[24-May-2013 23:24:36] PHP Parse error:  syntax error, unexpected ';' in /home/txitcons/public_html/app/code/core/Mage/Contacts/controllers/IndexController.php on line 109
+[24-May-2013 23:31:46] PHP Fatal error:  Call to a member function getFirstname() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/customer/widget/name.phtml on line 67
+[25-May-2013 03:40:53] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:47:56] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:48:18] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:49:22] PHP Fatal error:  Can't use method return value in write context in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:50:20] PHP Fatal error:  Call to a member function getParentId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 13
+[25-May-2013 03:54:59] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 38
+[25-May-2013 03:55:02] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 38
+[25-May-2013 03:56:02] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 3
+[25-May-2013 03:57:09] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:57:14] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[25-May-2013 03:57:17] PHP Fatal error:  Call to a member function getId() on a non-object in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/navigation/vert_nav.phtml on line 4
+[26-May-2013 19:53:27] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:53:38] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:54:56] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:58:11] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:58:40] PHP Warning:  Unterminated comment starting line 253 in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/product/view.phtml on line 253
+[26-May-2013 19:58:40] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/product/view.phtml on line 253
+[26-May-2013 19:58:44] PHP Warning:  Unterminated comment starting line 253 in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/product/view.phtml on line 253
+[26-May-2013 19:58:44] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/txitcons/public_html/app/design/frontend/default/sylvie/template/catalog/product/view.phtml on line 253
+[26-May-2013 19:58:44] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:58:58] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:59:29] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:59:31] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:59:33] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:59:38] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]: Class Zend_Log could not be loaded in /home/txitcons/public_html/app/code/core/Mage/Core/functions.php on line 247
+[26-May-2013 19:59:53] PHP Fatal error:  spl_autoload() [<a href='function.spl-autoload'>function.spl-autoload</a>]:
